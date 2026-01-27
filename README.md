@@ -10,7 +10,7 @@
 
 该仓库为汐游创新早期Web界面搭建，记录产品从0到1的研发过程。
 
-**在线访问**: [Seyo汐游创新官网](www.seyoinnovation.cn)
+**在线访问**: [Seyo汐游创新官网](https://www.seyoinnovation.cn)
 
 ## 📋 项目结构
 
@@ -133,7 +133,7 @@ hexo d
 
 - 🎓 **学校**: 重庆大学
 - 📧 **Email**: wangzinuo233@gmail.com
-- 🌐 **官网**: [Seyo汐游创新](www.seyoinnovation.cn)
+- 🌐 **官网**: [Seyo汐游创新](https://www.seyoinnovation.cn)
 - 💬 **微信**: 欢迎扫描官网二维码联系我们
 
 **一起潜水，一起创新！**
